@@ -1,0 +1,25 @@
+<div class="row" style="margin-left: 200px; margin-right: 300px;">
+      
+    <hr>
+      
+      <table class="table table-striped">
+            <thead>
+                  <tr>
+                        <th scope="col">identificación</th>
+                        <th scope="col">Nombre </th>
+                        <th scope="col">sexo</th>
+                        <th scope="col">Edad</th>
+                        <th scope="col">Pulsacion</th>
+                      </tr>
+                </thead>
+            <tbody>
+                  <tr *ngFor="let persona of personas; index as i ">
+                        <td>{{ persona.identificacion | uppercase}} </td>
+                        <td>{{ persona.nombre }}</td>
+                        <td>{{persona.sexo  }}</td>
+                        <td>{{ persona.edad  }}</td>
+                        <td>{{ persona.pulsacion  }}</td>
+                      </tr>
+                </tbody>
+          </table>
+</div>

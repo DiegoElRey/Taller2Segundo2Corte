@@ -1,0 +1,12 @@
+C:\Users\Dasp2\plscns\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\Dasp2\plscns\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\Dasp2\plscns\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\Dasp2\plscns\DAL\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\Dasp2\plscns\DAL\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\Dasp2\plscns\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\Dasp2\plscns\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Dasp2\plscns\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\Dasp2\plscns\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dasp2\plscns\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+C:\Users\Dasp2\plscns\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\Dasp2\plscns\DAL\obj\Debug\netstandard2.0\DAL.pdb
