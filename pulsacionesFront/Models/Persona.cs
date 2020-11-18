@@ -10,7 +10,6 @@ public class PersonaInputModel​
 
 public class PersonaViewModel : PersonaInputModel​
 {
-    public decimal pulsacion { get; set; }
         public PersonaViewModel()
         {
         }
@@ -20,7 +19,8 @@ public class PersonaViewModel : PersonaInputModel​
             nombre = persona.nombre;
             edad = persona.edad;
             sexo = persona.sexo;
-            pulsacion = persona.pulsacion;
+            Pulsacion = persona.pulsacion;
         }
+        public decimal Pulsacion { get; set; }
         
     }

@@ -46,14 +46,6 @@ namespace pulsacionesFront.Controllers {
                 return Ok (response.Persona);
             }
 
-            // DELETE: api/Persona/5​
-
-            [HttpDelete ("{identificacion}")]
-            public ActionResult<string> Delete (string identificacion) {
-                string mensaje = _personaService.Eliminar (identificacion);
-                return Ok (mensaje);
-            }
-
             private Persona MapearPersona (PersonaInputModel personaInput) {
                 var persona = new Persona​ {
                     identificacion = personaInput.identificacion,
